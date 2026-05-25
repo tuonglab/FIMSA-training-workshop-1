@@ -3,8 +3,11 @@
 This tutorial series introduces basic concepts in **single-cell analysis** using Python.
 All notebooks are designed to run in **Google Colab**.
 
-### Tutorial 1, 2, 3, 4
+### Tutorial 1
 [![Tutorial 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuonglab/FIMSA-training-workshop-1/blob/master/notebooks/tutorial-1.ipynb)
+
+### Tutorial 4
+[![Tutorial 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuonglab/FIMSA-training-workshop-1/blob/master/notebooks/tutorial-4.ipynb)
 
 ---
 

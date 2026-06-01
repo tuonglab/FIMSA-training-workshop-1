@@ -6,6 +6,12 @@ All notebooks are designed to run in **Google Colab**.
 ### Tutorial 1
 [![Tutorial 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuonglab/FIMSA-training-workshop-1/blob/master/notebooks/tutorial-1.ipynb)
 
+### Tutorial 2
+[![Tutorial 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuonglab/FIMSA-training-workshop-1/blob/master/notebooks/tutorial-2.ipynb)
+
+### Tutorial 3
+[![Tutorial 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuonglab/FIMSA-training-workshop-1/blob/master/notebooks/tutorial-3.ipynb)
+
 ### Tutorial 4
 [![Tutorial 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuonglab/FIMSA-training-workshop-1/blob/master/notebooks/tutorial-4.ipynb)
 
@@ -41,7 +47,7 @@ All notebooks are designed to run in **Google Colab**.
 * AIRR format
 * Clonotype network visualization
 
-**Tools:** Scanpy, Dandelion, Scirpy
+**Tools:** Scanpy, Dandelion
 
 ---
 

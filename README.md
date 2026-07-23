@@ -12,25 +12,11 @@ All notebooks are designed to run in **Google Colab**.
 ### Tutorial 3
 [![Tutorial 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuonglab/FIMSA-training-workshop-1/blob/master/notebooks/tutorial-3.ipynb)
 
-### Tutorial 4
-[![Tutorial 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuonglab/FIMSA-training-workshop-1/blob/master/notebooks/tutorial-4.ipynb)
-
 ---
 
 # 📚 Notebooks
 
-## 1. tutorial-1 (Foundations) 
-
-* What is a DataFrame
-* Rows vs columns
-* Data types
-* Basic data exploration
-
-**Tools:** Scanpy
-
----
-
-## 2. tutorial-2 (scRNA-seq with Scanpy)
+## 1. tutorial-1 (scRNA-seq with Scanpy)
 
 * Intro to single-cell data in Python
 * AnnData structure (`.X`, `.obs`, `.var`)
@@ -40,7 +26,7 @@ All notebooks are designed to run in **Google Colab**.
 
 ---
 
-## 3. tutorial-3 (TCR Analysis with Dandelion)
+## 2. tutorial-2 (TCR Analysis with Dandelion)
 
 * Intro to single-cell TCR sequencing
 * Contig annotation files
@@ -51,7 +37,7 @@ All notebooks are designed to run in **Google Colab**.
 
 ---
 
-## 4. tutorial-4 (Deep Learning on TCRs)
+## 3. tutorial-3 (Deep Learning on TCRs)
 
 * Train a model on TCR sequences (~10k)
 * Use a pre-trained model

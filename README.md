@@ -1,6 +1,8 @@
-﻿# 🧬 Intro to Single-Cell Bioinformatics (Python)
+# 🧬 ASI-FIMSA Bioinformatics Workshop 1
 
-This tutorial series introduces basic concepts in **single-cell analysis** using Python.
+# https://github.com/tuonglab/FIMSA-training-workshop-1
+
+This series introduces basic concepts in **single-cell and TCR/BCR analysis** using Python.
 All notebooks are designed to run in **Google Colab**.
 
 ### Tutorial 1

@@ -65,7 +65,7 @@ By the end, you will:
 * Explore TCR data
 * Apply deep learning to biological sequences
 
-[workshop 3 slides](https://docs.google.com/presentation/d/1spU891uzbzWThe-GIk1WXyPy6wUt2uTT5JjRxCs-c_U/edit?slide=id.g3f6f376d6bb_0_9#slide=id.g3f6f376d6bb_0_9)
+[workshop 3 slides](https://docs.google.com/presentation/d/1spU891uzbzWThe-GIk1WXyPy6wUt2uTT5JjRxCs-c_U/edit?slide=id.g3f6c3345713_0_423#slide=id.g3f6c3345713_0_423)
 
 ---
 
